@@ -1,0 +1,25 @@
+html,body {
+  padding:0px;
+  margin:0px;
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  background-color: #E0FFFF;
+}
+
+.msgLetra {
+  font-family: 'Merienda', cursive;
+  font-family: 'Shadows Into Light', cursive;
+  margin-top: -400px;
+  font-size: 20px;
+}
+
+/*para le mensaje 2*/
+.msgLetra2 {
+font-family: 'Lobster', cursive;
+font-size: 20px;
+}
